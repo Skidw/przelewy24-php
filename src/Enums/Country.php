@@ -154,6 +154,7 @@ enum Country: string
     case TUNISIA = 'TN';
     case TURKMENISTAN = 'TM';
     case TUVALU = 'TV';
+    case UKRAINE = 'UA';
     case UNITED_KINGDOM = 'GB';
     case UNITED_STATES = 'US';
     case UNITED_STATES_MINOR_OUTLYING_ISLANDS = 'UM';
